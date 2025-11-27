@@ -67,9 +67,3 @@ This was developed for a Kaggle competition focused on Twitter bot detection. Th
 2. **Ensemble diversity** - Combining tree-based models with different strengths
 3. **Transfer learning** - Leveraging pre-trained language models for text features
 4. **Robust validation** - 5-fold stratified cross-validation throughout
-
-## Acknowledgments
-
-- Hugging Face Transformers library for DistilBERT implementation
-- Kaggle community for dataset and competition platform
-- BT4012 teaching team for guidance
